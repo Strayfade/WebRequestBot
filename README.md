@@ -13,7 +13,9 @@ Commands
 ## Examples
 
  - `.req https://www.google.com/search?q=test+search&page=1/`
+ - 
     Returns `test search - Google Search`
     
  - `.req https://youtube.com/Strayfade/ },"subscriberCountText":{"simpleText":" subscribers"},"tvBanner":{"thumbnails":[{"url":"http`
+ - 
     Returns my current amount of subscribers!
